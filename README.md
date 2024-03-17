@@ -1,22 +1,26 @@
-# DiscoJS
+# DiscoJS 🪩 🕺🏽
+
+<!-- Add a massive warning about WORK IN PROGRESS -->
 
 <div align="center">
+<strong>⚠️ WORK IN PROGRESS, DO NOT USE IN PRODUCTION YET ⚠️</strong>
+<br></br>
 
 <!-- [![npm version](https://img.shields.io/npm/v/discojs.svg)](https://www.npmjs.com/package/discojs) --> 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/discojs/blob/main/LICENSE) 
 
 </div>
 
-DiscoJS is an opinionated wrapper built on top of the [discord.js](https://discord.js.org/) library, providing an intuitive and efficient way to create interactive menus for Discord bots.<!-- With DiscoJS, you can easily build menus with pages, modals, buttons, and embeds, enhancing user engagement and improving the overall user experience. -->
+DiscoJS is an opinionated wrapper built on top of the [discord.js](https://discord.js.org/) library, providing an intuitive and efficient way to create interactive menus for Discord bots.With DiscoJS, you will be able to easily build menus with pages, modals, buttons, and embeds, enhancing user engagement and improving the overall user experience.
 
-<!-- TODO: Features in README -->
-<!-- ## Features
+TODO: Update Features in README -->
+## Planned Features
 
 - ✨ Create dynamic menus with multiple pages and modals
 - 🎨 Customize buttons, embeds, and input fields
 - 🔄 Navigate between pages and modals seamlessly
 - 🚀 Easy to integrate with existing Discord bots
-- 📝 Comprehensive documentation and examples -->
+- 📝 Comprehensive documentation and examples
 
 <!-- TODO: Installation in README -->
 <!-- ## Installation
