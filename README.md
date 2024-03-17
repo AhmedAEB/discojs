@@ -11,7 +11,7 @@
 
 </div>
 
-DiscoJS is an opinionated wrapper built on top of the [discord.js](https://discord.js.org/) library, providing an intuitive and efficient way to create interactive menus for Discord bots.With DiscoJS, you will be able to easily build menus with pages, modals, buttons, and embeds, enhancing user engagement and improving the overall user experience.
+DiscoJS is an opinionated wrapper built on top of the [discord.js](https://discord.js.org/) library, providing an intuitive and efficient way to create interactive menus for Discord bots. With DiscoJS, you will be able to easily build menus with pages, modals, buttons, and embeds, enhancing user engagement and improving the overall user experience.
 
 <!-- TODO: Update Features in README -->
 ## Planned Features
